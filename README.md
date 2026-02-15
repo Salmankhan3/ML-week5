@@ -48,10 +48,7 @@ Implements XGBoost classifier with tuning and interpretability tools.
 - Model saved in both `.pkl` and `.json` formats
 - Performance comparison with Random Forest
 
-**Dependencies:**
-```bash
-pip install xgboost shap
-```
+
 
 ---
 
